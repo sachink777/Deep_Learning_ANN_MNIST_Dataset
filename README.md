@@ -2,7 +2,7 @@
 
 I have performed implementation of MNIST dataset using the ANN, transfer learning and batch normalization.
 
-ANN -  ANN is Artificail Neural Network it is also known as MLP (Multi Layer Perceptron).
+ANN -  ANN is Artificial Neural Network it is also known as MLP (Multi Layer Perceptron).
 
 Transfer Learning  -  Transfer lreaning is technique where we can use pretrained model to train the new model. It helps to reduce computational power and gives better result.
 
