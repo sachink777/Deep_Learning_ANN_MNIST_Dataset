@@ -6,4 +6,4 @@ ANN -  ANN is Artificial Neural Network it is also known as MLP (Multi Layer Per
 
 Transfer Learning  -  Transfer lreaning is technique where we can use pretrained model to train the new model. It helps to reduce computational power and gives better result.
 
-Batch Normalization  - Batch Normalization is mostly used in Deep Neural Netwroks to prevent vanishing greadient and exploding gradient problem. 
+Batch Normalization  - Batch Normalization is mostly used in Deep Neural Netwroks to prevent vanishing gradient and exploding gradient problem. 
