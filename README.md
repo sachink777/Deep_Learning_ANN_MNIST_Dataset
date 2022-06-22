@@ -4,6 +4,6 @@ I have performed implementation of MNIST dataset using the ANN, transfer learnin
 
 ANN -  ANN is Artificial Neural Network it is also known as MLP (Multi Layer Perceptron).
 
-Transfer Learning  -  Transfer lreaning is technique where we can use pretrained model to train the new model. It helps to reduce computational power and gives better result.
+Transfer Learning  -  Transfer learning is technique where we can use the pretrained model to train the new model. It helps to reduce computational power and gives better result.
 
 Batch Normalization  - Batch Normalization is mostly used in Deep Neural Netwroks to prevent vanishing gradient and exploding gradient problem. 
